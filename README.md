@@ -1,6 +1,6 @@
 # Face-Recognition-Attendance_System
 Smart attendance system using face recognition technology
-# Face Recognition Attendance System
+# Face Recognition Attendance System.
 
 ## Problem Statement
 Manual attendance is time-consuming and allows proxy attendance, which affects accuracy.
